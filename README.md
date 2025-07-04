@@ -5,8 +5,6 @@ De inicio temos uma Tela com dashboard onde mostra os dados que foram tratados n
 
 ![Image](https://github.com/user-attachments/assets/f2696d0d-1ce1-4883-a5f6-246b03811838)
 
-89)
-
 
 Abaixo temos dados que são fornecidos dentro do programa no modo onde é exibido depois que ele é tratado e confugurado:
 
