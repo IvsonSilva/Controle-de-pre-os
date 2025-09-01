@@ -1,5 +1,5 @@
 # Controle-de-Preços
-Projeto feito usando BI dados importados de outras fontes para realizar esse micro serviço.(o projeto ainda não está completo falta alguns detalhes)
+Projeto feito usando BI dados importados de outras fontes para realizar esse micro serviço.(o projeto ainda não está 100% completo falta alguns detalhes)
 
 De inicio temos uma Tela com dashboard onde mostra os dados que foram tratados nesse projeto que se trata de um controle de vendas exportado de uma lista:
 
