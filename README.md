@@ -1,6 +1,7 @@
 # Controle-de-Preços
 Projeto feito usando BI dados importados de outras fontes para realizar esse micro serviço.(o projeto ainda não está 100% completo falta alguns detalhes)
 
+
 De inicio temos uma Tela com dashboard onde mostra os dados que foram tratados nesse projeto que se trata de um controle de vendas exportado de uma lista:
 
 ![Image](https://github.com/user-attachments/assets/c04ab70f-a535-4018-868b-24cce0dfd09c)
